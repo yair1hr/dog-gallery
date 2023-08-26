@@ -1,0 +1,18 @@
+.form-wraper {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: flex-start;
+  width: 20%;
+  padding: 20px;
+}
+
+.content-wraper {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.mat-expansion-panel {
+  background-color: gray;
+}
